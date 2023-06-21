@@ -5,6 +5,8 @@ to play Pong, and socialize with other users.
 
 > **Warning**: Don't copy/paste anything you don't understand: it's bad for you, and for the school.
 
+<br>
+
 ## Authors
 
 > * [Sargis Hovsepyan (shovsepy)](https://github.com/Sargis-Hovsepyan)
@@ -12,7 +14,6 @@ to play Pong, and socialize with other users.
 > * [Igor Zheltukhin (rstephan)](https://github.com/Gilliam6)
 > * [Volodya Ismailyan (vismaily)](https://github.com/nenieiri)
 
-<br>
 <br>
 
 ## Mandatory part
@@ -89,7 +90,6 @@ The game must be responsive!
 Other users can watch the game live without interfering in it.
 
 <br>
-<br>
 
 ## :joystick: Use Cases
 
@@ -120,7 +120,6 @@ All the different things a user can do when they come to this website:
 
 ...and much more!
 
-<br>
 <br>
 
 ## Development
