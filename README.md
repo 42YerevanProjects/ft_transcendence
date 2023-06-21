@@ -30,7 +30,7 @@ games. There will be guilds and wars! You will need to follow these rules:
 -   You must use a postgresql database and no other databases.
 -   The front end must be written with any typescript framework.
 -   Your website should be a single page app, but user should be able to use the back
-    button on the browser https://en.wikipedia.org/wiki/Singlepage_application
+    button on the browser.
 -   Your website must be usable on the latest version to date on Google Chrome,
     Firefox, Safari.
 -   There must be no unhandled errors or warning when browsing through the website.
