@@ -137,7 +137,7 @@ I personnaly worked on the `backend` part. Developed `everything` regarding the 
 except the `authentication`. Throughout the project, I gained valuable experience in the 
 following areas:
 
-1. **Backend Development**: I worked extensively on building and optimizing the server-side logic and APIs.
+1. `**Backend Development**`: I worked extensively on building and optimizing the server-side logic and APIs.
 
 2. **NestJS**: I utilized the NestJS framework to develop the backend infrastructure efficiently.
 
@@ -145,6 +145,10 @@ following areas:
 
 4. **Real-time Communication**: I integrated SocketIO to enable real-time communication between the server and clients.
 
-5. **Collaboration**: I collaborated with team members who implemented OAuth for secure user authentication and authorization.
+5. **Docker**: I worked with Docker for containerization, packaging the application and its dependencies into containers 
+for easier deployment and scalability.
+
+6. **Collaboration**: I closely collaborated with team members who implemented **OAuth** for secure user authentication 
+and authorization.
 
 I am proud of the contributions I made to ensure a robust and efficient backend, working closely with the frontend team to ensure seamless integration.
