@@ -139,16 +139,16 @@ following areas:
 
 1. `**Backend Development**`: I worked extensively on building and optimizing the server-side logic and APIs.
 
-2. **NestJS**: I utilized the NestJS framework to develop the backend infrastructure efficiently.
+2. `**NestJS**`: I utilized the NestJS framework to develop the backend infrastructure efficiently.
 
-3. **Database Management**: I used Postgres with TypeORM for streamlined database operations and data management.
+3. `**Database Management**`: I used Postgres with TypeORM for streamlined database operations and data management.
 
-4. **Real-time Communication**: I integrated SocketIO to enable real-time communication between the server and clients.
+4. `**Real-time Communication**`: I integrated SocketIO to enable real-time communication between the server and clients.
 
-5. **Docker**: I worked with Docker for containerization, packaging the application and its dependencies into containers 
+5. `**Docker**`: I worked with Docker for containerization, packaging the application and its dependencies into containers 
 for easier deployment and scalability.
 
-6. **Collaboration**: I closely collaborated with team members who implemented **OAuth** for secure user authentication 
+6. `**Collaboration**`: I closely collaborated with team members who implemented **OAuth** for secure user authentication 
 and authorization.
 
 I am proud of the contributions I made to ensure a robust and efficient backend, working closely with the frontend team to ensure seamless integration.
