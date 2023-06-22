@@ -16,7 +16,7 @@ to play Pong, and socialize with other users.
 
 <br>
 
-## Mandatory part
+## About The Project
 
 ### I - 1 Overview :ping_pong:
 
